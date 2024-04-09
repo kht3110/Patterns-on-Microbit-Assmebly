@@ -23,9 +23,9 @@ Users can self-define their own messages by replace the LED to be on and off fro
 ## **Demo**
 A demo video can be accessed via the link below.
 
-[Demo](https://github.com/kht3110/Patterns-on-Microbit-Assmebly/Demo.mp4)
+[Demo](https://github.com/kht3110/Patterns-on-Microbit-Assmebly/blob/main/Demo.mp4)
 <br>
 
 Another demo with a different message ("HAPPY FATHER's DAY") can be accessed through this link.
 
-[Demo](https://github.com/kht3110/Patterns-on-Microbit-Assmebly/Demo_Happy_Fathers_Day.mp4)
+[Demo](https://github.com/kht3110/Patterns-on-Microbit-Assmebly/blob/main/Demo_Happy_Fathers_Day.mp4)
